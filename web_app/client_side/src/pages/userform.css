@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+    font-family: helvetica;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-form {
+    background-color: #90909c56;
+    width: 500px;
+    padding: 30px 50px;
+    border-radius: 10px;
+}
+
+.label {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.input {
+    height: 40px;
+}
+
+.textarea {
+    padding: 10px;
+}
+
+.error-messages {
+    color: #Ff0000;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 20px;
+}

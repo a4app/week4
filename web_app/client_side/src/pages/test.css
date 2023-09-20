@@ -1,0 +1,9 @@
+.test-button {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+}
